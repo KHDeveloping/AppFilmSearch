@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Film Search</string>
+    <string name="popular">Popular</string>
+    <string name="most_popular_movies">Most popular movies</string>
+    <string name="error_fetch_movies">Please check your internet connection</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="in_theaters">Currently in theaters</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="stay_updated">Stay updated with the latest movies</string>
+    <string name="splash_words">Find your movie</string>
+    <string name="Enter">Enter</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="desc_message">Click the enter button below to begin your dynamic movie search. Enjoy</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
